@@ -48,9 +48,13 @@
             <img src="https://images-ext-1.discordapp.net/external/q_4wWmUwcD0gGq-WND69e1pvlVPRN92LxqY9JQ2AH2w/%3Fsize%3D512/https/cdn.discordapp.com/icons/1265357433132552224/fd61abb922a3da5cc6df9b31ba4022ae.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
             Developer at USRF
         </button>
+        <button id="openUrlButton" onclick="window.open('https://discord.gg/6k9YGfk2jH', '_blank')">
+            <img src="https://images-ext-1.discordapp.net/external/NjXjKJ3NZkkUgbWO4tkQJ-YHzl94Vhd6nXFArqrrEig/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1236740458600726738/181b271d8d4e7dbbd6b4ac3e9148f287.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
+            Assistant Founder of New York City Roleplay
+        </button>
     </section>
     <footer>
-        <p>&copy; 2024 gl1tch72. All rights reserved.</p>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
     </footer>
 </body>
 </html>
