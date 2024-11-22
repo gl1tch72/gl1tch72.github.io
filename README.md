@@ -19,10 +19,7 @@
     </header>
     <section id="about">
         <h2>About Me</h2>
-        <button id="toggleButton" onclick="toggleDetails()">Show Details</button>
-        <div id="details" style="display: none;">
-            <p>Introduce yourself and highlight your skills and experience here.</p>
-        </div>
+        <button id="openUrlButton" onclick="window.open('https://google.com', '_blank')">Go to Google</button>
     </section>
     <section id="projects">
         <h2>Projects</h2>
@@ -38,19 +35,5 @@
     <footer>
         <p>&copy; 2024 Your Name. All rights reserved.</p>
     </footer>
-
-    <script>
-        function toggleDetails() {
-            const details = document.getElementById('details');
-            const button = document.getElementById('toggleButton');
-            if (details.style.display === 'none') {
-                details.style.display = 'block';
-                button.textContent = 'Hide Details';
-            } else {
-                details.style.display = 'none';
-                button.textContent = 'Show Details';
-            }
-        }
-    </script>
 </body>
 </html>
