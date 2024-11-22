@@ -5,19 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
-    <script>
-        function toggleDetails() {
-            const details = document.getElementById('details');
-            const button = document.getElementById('toggleButton');
-            if (details.style.display === 'none') {
-                details.style.display = 'block';
-                button.textContent = 'Hide Details';
-            } else {
-                details.style.display = 'none';
-                button.textContent = 'Show Details';
-            }
-        }
-    </script>
 </head>
 <body>
     <header>
@@ -51,5 +38,19 @@
     <footer>
         <p>&copy; 2024 Your Name. All rights reserved.</p>
     </footer>
+
+    <script>
+        function toggleDetails() {
+            const details = document.getElementById('details');
+            const button = document.getElementById('toggleButton');
+            if (details.style.display === 'none') {
+                details.style.display = 'block';
+                button.textContent = 'Hide Details';
+            } else {
+                details.style.display = 'none';
+                button.textContent = 'Show Details';
+            }
+        }
+    </script>
 </body>
 </html>
