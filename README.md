@@ -16,14 +16,8 @@
             background-color: white;
             color: black;
             cursor: pointer;
-            transition: background-color 0.3s, color 0.3s;
             font-size: 1.2em;
             margin-bottom: 10px; /* Adds space between buttons */
-        }
-
-        button:hover {
-            background-color: black;
-            color: white;
         }
 
         img.icon {
