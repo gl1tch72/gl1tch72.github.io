@@ -37,10 +37,14 @@
         <nav></nav>
     </header>
     <section id="about">
-        <h2>About Me</h2>
-        <button id="openUrlButton" onclick="window.open('https://google.com', '_blank')">
+        <h2>Links</h2>
+        <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/HdzG-ZWFfGWNBJZsI2yHgi6bUWOAn7Vd7ZT-eW6p3Ds/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_17dc9fc956e57cf16f7f7c32b02db4d3.gif?width=655&height=655" alt="Icon" class="icon">
             Supervisor at New York City Roleplay
+        </button>
+               <button id="openUrlButton" onclick="window.open('https://discord.com/invite/cJjJkpjbph', '_blank')">
+            <img src="https://images-ext-1.discordapp.net/external/q_4wWmUwcD0gGq-WND69e1pvlVPRN92LxqY9JQ2AH2w/%3Fsize%3D512/https/cdn.discordapp.com/icons/1265357433132552224/fd61abb922a3da5cc6df9b31ba4022ae.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
+            Developer at USRF
         </button>
     </section>
     <footer>
