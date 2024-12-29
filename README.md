@@ -34,7 +34,7 @@
     <section id="links">
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
-            <img src="https://images-ext-1.discordapp.net/external/Waui8Xe3THdyivzk7Tp82SwMcH9e_9kM4dsRDgd7LE4/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_7736a43432048f85e00ef47b93d267e2.gif?width=655&height=655" alt="Icon" class="icon">
+            <img src="https://images-ext-1.discordapp.net/external/HdzG-ZWFfGWNBJZsI2yHgi6bUWOAn7Vd7ZT-eW6p3Ds/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_17dc9fc956e57cf16f7f7c32b02db4d3.gif?width=570&height=570" alt="Icon" class="icon">
             Lead Supervisor at New York City Roleplay
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/cJjJkpjbph', '_blank')">
