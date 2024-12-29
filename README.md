@@ -44,7 +44,7 @@
     </section>
     <section id="about-me">
         <h2>About me</h2>
-        <p>Hello! I'm glitch72, a learning developer and roleplay enthusiast. Currently I am learning lua coding and I know a little HTML. I do not make stuff for people so you do not have to ask that!</p>
+        <p>Hello! I'm glitch72, a learning developer and roleplay enthusiast. Currently I am learning lua coding and I know a little HTML. I do not make things on request.</p>
     </section>
     <footer>
         <p>&copy; 2024 glitch72. All rights reserved.</p>
