@@ -18,8 +18,8 @@
             cursor: pointer;
             font-size: 1.2em;
             margin-bottom: 10px; /* Adds space between buttons */
-            height: 75px;
-            width: 900px;
+            height: auto; /* Restoring original size */
+            width: auto; /* Restoring original size */
         }
 
         img.icon {
