@@ -44,6 +44,12 @@
         footer p {
             text-align: center;
         }
+
+        .links-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
     </style>
 </head>
 <body>
@@ -51,15 +57,15 @@
         <nav></nav>
     </header>
     <img src="https://images-ext-1.discordapp.net/external/7xOFPrfi6IK6P5eHp3wKSGJAmFCqWPK8joCNs5vfJPk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1167074427297615914/efdb856c77ea3dd9b3c9f665cd7f85f8.png?format=webp&quality=lossless&width=384&height=384" alt="gl1tch72 Image" class="circle-cropped">
-    <section id="links" class="centered">
+    <section id="links" class="centered links-container">
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/HdzG-ZWFfGWNBJZsI2yHgi6bUWOAn7Vd7ZT-eW6p3Ds/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_17dc9fc956e57cf16f7f7c32b02db4d3.gif?width=570&height=570" alt="Icon" class="icon">
             Lead Supervisor at New York City Roleplay (9k+)
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/cJjJkpjbph', '_blank')">
-            <img src="https://images-ext-1.discordapp.net/external/nRqfMmUQ81Q7SdKCUDUkuyCZFvekv0CUYIz1UNfEmQo/%3Fsize%3D4096/https/cdn.discordapp.com/icons/1265357433132552224/3ce642cd4b7786f1a90ae911f949e944.png?format=webp&quality=lossless&width=570&height=570" alt="Icon" class="icon">
-            Developer at USRF
+            <img src="https://images-ext-1.discordapp.net/external/A5UdH0n6kyl8H1IuNqdga-xoqwyxc3c22wycwaPGWek/%3Fsize%3D512/https/cdn.discordapp.com/icons/1265357433132552224/17136920d50023b9d9b01a6219548b3b.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
+            Developer at NSC
         </button>
     </section>
     <section id="about-me" class="centered">
