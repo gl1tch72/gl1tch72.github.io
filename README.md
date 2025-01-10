@@ -19,7 +19,7 @@
             font-size: 1.2em;
             margin-bottom: 10px; /* Adds space between buttons */
             height: 75px;
-            width: 500px;
+            width: 900px;
         }
 
         img.icon {
@@ -38,6 +38,10 @@
         }
 
         .centered {
+            text-align: center;
+        }
+
+        footer p {
             text-align: center;
         }
     </style>
