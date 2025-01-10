@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -25,12 +26,25 @@
             height: 30px;
             margin-right: 15px;
         }
+
+        .circle-cropped {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            display: block;
+            margin: 0 auto;
+        }
     </style>
 </head>
 <body>
     <header>
         <nav></nav>
     </header>
+    <section id="gl1tch72">
+        <h2>gl1tch72</h2>
+        <img src="https://images-ext-1.discordapp.net/external/7xOFPrfi6IK6P5eHp3wKSGJAmFCqWPK8joCNs5vfJPk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1167074427297615914/efdb856c77ea3dd9b3c9f665cd7f85f8.png?format=webp&quality=lossless&width=384&height=384" alt="gl1tch72 Image" class="circle-cropped">
+    </section>
     <section id="links">
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
