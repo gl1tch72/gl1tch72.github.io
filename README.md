@@ -73,7 +73,7 @@
         <p>Hello! I'm glitch72, a learning developer and roleplay enthusiast. Currently I am learning lua coding and I know a little HTML. I do not make things on request.</p>
     </section>
     <footer>
-        <p>&copy; 2024 glitch72. All rights reserved.</p>
+        <p>&copy; 2025 glitch72. All rights reserved.</p>
     </footer>
 </body>
 </html>
