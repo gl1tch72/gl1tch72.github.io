@@ -63,6 +63,10 @@
             <img src="https://images-ext-1.discordapp.net/external/HdzG-ZWFfGWNBJZsI2yHgi6bUWOAn7Vd7ZT-eW6p3Ds/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_17dc9fc956e57cf16f7f7c32b02db4d3.gif?width=570&height=570" alt="Icon" class="icon">
             Lead Supervisor at New York City Roleplay (9k+)
         </button>
+        <button id="openUrlButton" onclick="window.open('https://discord.gg/RUcrz6MjER', '_blank')">
+            <img src="https://images-ext-1.discordapp.net/external/6cd2fag3CwlrjZVAy2aZFR_S2yeNTnSTcGet_XbAsF4/%3Fsize%3D512/https/cdn.discordapp.com/icons/1261790653277536347/56bc9966ba09386b0dabc0f759c9c6e3.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
+            Deputy Director of Los Angeles City Roleplay (50+)
+        </button>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/cJjJkpjbph', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/A5UdH0n6kyl8H1IuNqdga-xoqwyxc3c22wycwaPGWek/%3Fsize%3D512/https/cdn.discordapp.com/icons/1265357433132552224/17136920d50023b9d9b01a6219548b3b.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
             Developer at NSC
