@@ -56,25 +56,21 @@
     <header>
         <nav></nav>
     </header>
-    <img src="https://images-ext-1.discordapp.net/external/7xOFPrfi6IK6P5eHp3wKSGJAmFCqWPK8joCNs5vfJPk/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1167074427297615914/efdb856c77ea3dd9b3c9f665cd7f85f8.png?format=webp&quality=lossless&width=384&height=384" alt="gl1tch72 Image" class="circle-cropped">
+    <img src="https://images-ext-1.discordapp.net/external/6xXv50y0nfSLUNzv85exuizCDJH6ZsxUe08XkDShv5k/%3Fsize%3D512/https/cdn.discordapp.com/avatars/1167074427297615914/d6c03edd67ef321781fbfeff44155eb8.png?format=webp&quality=lossless&width=384&height=384" alt="gl1tch72 Image" class="circle-cropped">
     <section id="links" class="centered links-container">
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
-            <img src="https://images-ext-1.discordapp.net/external/HdzG-ZWFfGWNBJZsI2yHgi6bUWOAn7Vd7ZT-eW6p3Ds/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a_17dc9fc956e57cf16f7f7c32b02db4d3.gif?width=570&height=570" alt="Icon" class="icon">
+            <img src="https://images-ext-1.discordapp.net/external/0V5a3v2MdP8rs62LmdHXMkIOTtdhjkUngkNrqv2htiA/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a1607b9b00339d807d88eb95fc04718a.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
             Server Secretary at New York City Roleplay (9k+)
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.gg/RUcrz6MjER', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/6cd2fag3CwlrjZVAy2aZFR_S2yeNTnSTcGet_XbAsF4/%3Fsize%3D512/https/cdn.discordapp.com/icons/1261790653277536347/56bc9966ba09386b0dabc0f759c9c6e3.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
-            Deputy Director of Los Angeles City Roleplay (50+)
+            Deputy Director of Los Angeles City Roleplay (70+)
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/cJjJkpjbph', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/A5UdH0n6kyl8H1IuNqdga-xoqwyxc3c22wycwaPGWek/%3Fsize%3D512/https/cdn.discordapp.com/icons/1265357433132552224/17136920d50023b9d9b01a6219548b3b.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
             Developer at NSC
         </button>
-    </section>
-    <section id="about-me" class="centered">
-        <h2>About me</h2>
-        <p>Hello! I'm glitch72, a learning developer and roleplay enthusiast. Currently I am learning lua coding and I know a little HTML. I do not make things on request.</p>
     </section>
     <footer>
         <p>&copy; 2025 glitch72. All rights reserved.</p>
