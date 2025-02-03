@@ -61,7 +61,7 @@
         <h2>Links</h2>
         <button id="openUrlButton" onclick="window.open('https://discord.com/invite/nycrprblx', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/0V5a3v2MdP8rs62LmdHXMkIOTtdhjkUngkNrqv2htiA/%3Fsize%3D4096/https/cdn.discordapp.com/icons/935613791058657370/a1607b9b00339d807d88eb95fc04718a.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
-            Server Secretary at New York City Roleplay (9k+)
+            Internal Affairs at New York City Roleplay (9k+)
         </button>
         <button id="openUrlButton" onclick="window.open('https://discord.gg/RUcrz6MjER', '_blank')">
             <img src="https://images-ext-1.discordapp.net/external/6cd2fag3CwlrjZVAy2aZFR_S2yeNTnSTcGet_XbAsF4/%3Fsize%3D512/https/cdn.discordapp.com/icons/1261790653277536347/56bc9966ba09386b0dabc0f759c9c6e3.png?format=webp&quality=lossless&width=655&height=655" alt="Icon" class="icon">
